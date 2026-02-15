@@ -1,6 +1,6 @@
 # LimeUI+ 组件 MCP 智能体文档索引
 
-基于 [LimeUI+](https://limex.qcoon.cn) 官方文档整理的 MCP 用组件说明，格式参考 xUploadMedia。每个文件对应一个组件，仅保留：介绍、使用、Props、Events、Slots、Ref 方法（如有）、插件标签、主题定制（如有）。
+基于 [LimeUI+](https://limex.qcoon.cn) 官方文档整理的 MCP 用组件说明。
 
 ## 基础组件
 
